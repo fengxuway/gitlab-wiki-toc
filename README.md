@@ -11,8 +11,6 @@ Then run
 python3 toc.py
 ```
 
-will generate `toc.md`
-
-commit and push `toc.md`
+will generate `toc.md`, commit and push.
 
 Done!
